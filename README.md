@@ -1,1 +1,1 @@
-# ct8-monitor
+delete readme
