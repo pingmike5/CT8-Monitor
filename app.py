@@ -19,7 +19,7 @@ app = Flask(__name__)
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 CHECK_INTERVAL = int(os.getenv("CHECK_INTERVAL", 60))
-URL = "https://ct8.pl/"
+URL = "https://www.ct8.pl/"
 LAST_COUNT = None
 
 @app.route("/")
