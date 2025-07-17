@@ -1,6 +1,6 @@
 # 📡 CT8 放号监控机器人
 
-本项目是一个用于监控 [CT8](https://www.ct8.biz) 放号情况的 Telegram 机器人，自动检查并在放号时通知用户。目前已部署并运行在 Telegram 频道：
+本项目是一个用于监控 [CT8](https://www.ct8.pl) 放号情况的 Telegram 机器人，自动检查并在放号时通知用户。目前已部署并运行在 Telegram 频道：
 
 👉 [@ct8jiankoog](https://t.me/ct8jiankoog)
 
